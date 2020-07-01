@@ -15,5 +15,9 @@ Simple_Classification_python.ipynb
 
 # 2-Classification with Regularization:
 
-Classification_with_regularization_python.ipynb
-Classification_with_regularization_(Multivariable)_python.ipynb
+Classification_with_regularization_python.ipynb <br />
+Classification_with_regularization_(Multivariable)_python.ipynb <br />
+
+# 3-KNN classification:
+
+Simple_KNN_classification_model_sklearn.ipynb <br />
