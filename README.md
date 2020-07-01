@@ -21,3 +21,4 @@ Classification_with_regularization_(Multivariable)_python.ipynb <br />
 # 3-KNN classification:
 
 Simple_KNN_classification_model_sklearn.ipynb <br />
+Simple KNN classification model (digits dataset)--sklearn.ipynb <br />
